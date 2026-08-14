@@ -1,0 +1,6 @@
+/* App.css is kept minimal to allow index.css theme to drive design layout */
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
